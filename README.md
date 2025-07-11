@@ -94,7 +94,7 @@ https://img.shields.io/badge/Angular%2018.2.0--lightblue?style=for-the-badge&log
 ####  Frontend 
 
 - [Angular 18.2.0](https://angular.dev/) - JavaScript library that is used for building user interfaces specifically for single-page applications.
-- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
+- [Bootstrap 5.2.2](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
 - [rxjs](https://angular.io/guide/rx-library) - Reactive Extensions Library for JavaScript.
 
 ####  Backend 
