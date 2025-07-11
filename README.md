@@ -50,9 +50,8 @@ $ npm start (to start the server), or nodemon server
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 
 ##  🔌 Technologies used ✔️:
-![Static Badge](https://img.shields.io/badge/JavaScript--blue?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=auto&label=JavaScript&labelColor=blue&color=black)
-![Static Badge](https://img.shields.io/badge/React--green?style=for-the-badge&logo=react&logoColor=black&logoSize=auto&label=React%20Js&labelColor=lightgreen&color=black)
-![Static Badge](https://img.shields.io/badge/Next--gray?style=for-the-badge&logo=next.js&logoColor=black&logoSize=auto&label=Next%20Js&labelColor=aqua&color=black)
+![Static Badge](https://img.shields.io/badge/typeScript--blue?style=for-the-badge&logo=typescript&logoColor=black&logoSize=auto&label=TypeScript&labelColor=Black)
+https://img.shields.io/badge/Angular%2018.2.0--lightblue?style=for-the-badge&logo=angular&logoColor=black&logoSize=auto&label=Angular&labelColor=darkgreen&color=lightgreen
 ![Static Badge](https://img.shields.io/badge/Redux-Toolkit--gray?style=for-the-badge&logo=redux&logoColor=black&logoSize=auto&label=Redux%20Toolkit&labelColor=lightbrown&color=black)
 ![Static Badge](https://img.shields.io/badge/cors%20-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/dotenv-black?style=for-the-badge)
@@ -61,6 +60,7 @@ $ npm start (to start the server), or nodemon server
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/bootstrap-teal?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/rxjs%20-aqua?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/multer%20-aqua?style=for-the-badge)
 
 
 ##  Screenshots:
@@ -93,9 +93,7 @@ $ npm start (to start the server), or nodemon server
 
 ####  Frontend 
 
-- [React 19.0.0](https://reactjs.io/) - JavaScript library that is used for building user interfaces specifically for single-page applications.
-- [[Next 15.0.2](https://https://nextjs.org//) - JavaScript - React - FrameWork that is used for building user interfaces specifically for single-page applications.
-- [[Redux-Toolkit](https://redux-toolkit.js.org/) - A predictable state container for JavaScript applications.
+- [Angular 18.2.0](https://angular.dev/) - JavaScript library that is used for building user interfaces specifically for single-page applications.
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
 - [rxjs](https://angular.io/guide/rx-library) - Reactive Extensions Library for JavaScript.
 
